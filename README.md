@@ -1,2 +1,2 @@
-# GCSO
-Check wether a car is safe or unsafe green being safe and red being unsafe when hits a wall.
+# p5.play-boilerplate
+Boiler plate for p5.play
